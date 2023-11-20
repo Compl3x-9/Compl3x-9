@@ -1,4 +1,19 @@
 ### Hi there 👋
+I'm Miguel, also known as Compl3x-9 or CagedWings.
+
+### ⚡ Some things about me:
+- 🔭 I’m currently studying a Mathematics degree at U.N.E.D
+- 🔭 I finished my CS engineering degree at University of Granada
+- I'm mostly interested in:
+  - Cybersecurity, especially Cryptography
+  - Machine Learning
+  - Blockchain Technologies
+- 🧠 I love learning new things on my own
+
+### Main Skills:
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,cpp,javascript,c,haskell,flask,vim,git)](https://skillicons.dev)
+</p>
 
 <!--
 **Compl3x-9/Compl3x-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
